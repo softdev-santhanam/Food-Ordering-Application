@@ -1,0 +1,19 @@
+.card {
+    height: 200px;
+    border-radius: 8px;
+    padding: 8px;
+    width: 200px;
+    position: relative;
+    border: 1px solid #eaeaea;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);   
+    
+
+    .recipeImg{
+        height: 160px;
+        width: 180px; 
+    }
+
+    .recipeName {
+        text-align: center;
+    }
+}
